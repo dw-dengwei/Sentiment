@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>negative.png</file>
+        <file>neutral.png</file>
+        <file>positive.png</file>
+        <file>unknown.png</file>
+        <file>open.png</file>
+    </qresource>
+</RCC>
