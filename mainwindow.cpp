@@ -48,14 +48,6 @@ MainWindow::MainWindow(QWidget *parent)
     status_map[2] = QString(":/img/positive.png");
 }
 
-//void MainWindow::contextMenuEvent(QContextMenuEvent *event)
-//{
-//    QMenu *menu = new QMenu(this);
-//    menu->addAction(new QAction("Remove", this));
-//    menu->show();
-//    menu->move(cursor().pos())
-//}
-
 
 MainWindow::~MainWindow()
 {

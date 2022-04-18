@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>392</width>
+    <width>497</width>
     <height>362</height>
    </rect>
   </property>
@@ -18,18 +18,18 @@
   </property>
   <property name="minimumSize">
    <size>
-    <width>392</width>
+    <width>497</width>
     <height>362</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>392</width>
+    <width>497</width>
     <height>362</height>
    </size>
   </property>
   <property name="windowTitle">
-   <string>Multimodal Sentiment Analysis for Social Networking</string>
+   <string>多模态社交情感计算</string>
   </property>
   <property name="windowIcon">
    <iconset resource="images.qrc">
